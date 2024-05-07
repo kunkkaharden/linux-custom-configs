@@ -1,0 +1,3 @@
+- You can add these functions to your shell configuration file. Depending on which shell you're using, the location of the configuration file will vary (for example, .bashrc for Bash, .zshrc for Zsh).
+
+- After adding these functions to your shell configuration file (e.g., ~/.bashrc or ~/.zshrc), remember to reload your shell configuration by running source ~/.bashrc for Bash or source ~/.zshrc for Zsh.
